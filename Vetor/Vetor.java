@@ -13,6 +13,7 @@ public class Vetor {
         System.out.println("Digite o index e em seguida o nome");
         int index = s.nextInt();
         String coletora = s.next();
+        System.out.println("Hugo esteve aqui.");
 
         /* adiciona ao vetor */
         nomes[index] = coletora;
