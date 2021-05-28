@@ -66,14 +66,14 @@ public class Vetor {
     }
 
     /* organizar vetor em ordem crescente por quantidade de letras */
-    public void organizar() {
+    public void boobleSort() {
         for (int i = 0; i < nomes.length; i++) {
-            for (int j = 0; j < nomes.length; j++) {
-                if (nomes[i].length() < nomes[j].length()) {
+            for (int j = i + 1; j < nomes.length; j++) {
+                if (nomes[i].length() > nomes[j].length()) {
                     String aux;
-                    aux = nomes[j];
-                    nomes[j] = nomes[i];
-                    nomes[i] = aux;
+                    aux = nomes[i];
+                    nomes[i] = nomes[j];
+                    nomes[j] = aux;
                 }
             }
         }

@@ -29,7 +29,7 @@ public class VOPOO {
                     nomes.getNomes();
                     break;
                 case 2:
-                    nomes.organizar();
+                    nomes.boobleSort();
                     break;
                 case 3:
                     System.out.println("Digite o número do nome, onde 0 representa o primeiro nome.");
