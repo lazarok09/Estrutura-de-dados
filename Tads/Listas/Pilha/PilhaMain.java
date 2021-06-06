@@ -1,6 +1,6 @@
 package Tads.Listas.Pilha;
 
-public class Pilha2 {
+public class PilhaMain {
     public static void main(String[] args) {
         Pilha pilha = new Pilha(5);
         // adiciona valores
