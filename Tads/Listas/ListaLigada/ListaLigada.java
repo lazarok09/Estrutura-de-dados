@@ -1,4 +1,4 @@
-package Tads.Listas;
+package Tads.Listas.ListaLigada;
 
 public class ListaLigada {
     private No primeiroNo;

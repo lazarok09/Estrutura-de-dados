@@ -1,4 +1,4 @@
-package Tads.Listas;
+package Tads.Listas.ListaLigada;
 
 public class No {
     // No, Node ou lista ligada.
@@ -13,8 +13,8 @@ public class No {
         proximo = n;
     }
 
-    public void setValor(int valor) {
-        valor = valor;
+    public void setValor(int valor_aux) {
+        valor = valor_aux;
     }
 
     public int getValor() {

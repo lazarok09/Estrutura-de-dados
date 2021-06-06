@@ -1,4 +1,4 @@
-package Tads.Listas;
+package Tads.Listas.ListaLigada;
 
 public class ListaLigadaMain {
     public static void main(String[] args) {
