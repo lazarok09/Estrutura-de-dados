@@ -1,6 +1,7 @@
-<h1 align="center"> Estrutura de Dados </h1>
-<br><br><br>
-<h2 align="center"> Esse é o repositório que utilizarei para praticar os exercícios de estrutura de dados </h2>
+<h1 align="center"> Estrutura de Dados :arrow_heading_down: </h1>
+<br><br>
+<h3 align="center"> Esse é o repositório que estou praticando exercícios de estrutura de dados </h3>
+<p align="center">Têm muita coisa legal do Java como a API <strong>collections</strong>, <strong>árvore binária</strong> e <strong>TAD</strong> (tipo abstrato de dados)
 
 <br><br><br>
 
