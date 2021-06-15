@@ -1,4 +1,4 @@
-package Tads.Listas.PilhaClasseStack;
+package Tads.PilhaClasseStack;
 
 public class PilhaCS_Main {
     public static void main(String[] args) {

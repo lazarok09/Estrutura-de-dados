@@ -1,4 +1,4 @@
-package Tads.Listas.Fila;
+package Tads.Fila;
 
 public class FilaEstatica {
     private int[] vFila;

@@ -1,4 +1,4 @@
-package Tads.Listas.Pilha;
+package Tads.Pilha;
 
 public class Pilha {
     private int vetorPilha[];

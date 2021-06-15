@@ -1,4 +1,4 @@
-package Tads.Listas.Pilha;
+package Tads.Pilha;
 
 public class PilhaMain {
     public static void main(String[] args) {

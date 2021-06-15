@@ -1,4 +1,4 @@
-package Tads.Listas.PilhaClasseStack;
+package Tads.PilhaClasseStack;
 
 import java.util.Stack;
 
