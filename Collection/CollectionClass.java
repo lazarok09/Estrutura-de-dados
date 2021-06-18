@@ -4,7 +4,7 @@ import java.util.Collections;
 
 import java.util.*;
 
-public class Collection {
+public class CollectionClass {
     public static void main(String[] args) {
 
         Collection<Integer> col;
