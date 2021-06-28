@@ -3,6 +3,12 @@
 <h3 align="center"> Esse é o repositório que estou praticando exercícios de estrutura de dados </h3>
 <p align="center">Têm muita coisa legal do Java como a API <strong>collections</strong>, <strong>árvore binária</strong> e <strong>TAD</strong> (tipo abstrato de dados)
 
+<h2 align=center>
+ 
+[Atividade contextualizada](https://onlinegdb.com/njG5dx6w7)
+ 
+</h2>
+
 <br><br><br>
 
 <span align=center>
