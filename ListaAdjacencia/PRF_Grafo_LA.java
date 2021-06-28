@@ -10,7 +10,7 @@ public class PRF_Grafo_LA {
         nos[1] = new Vertice("B", 1);
         nos[2] = new Vertice("C", 2);
 
-        Grafo_LA lis = new Grafo_LA(nos);
+        Grafo_MA lis = new Grafo_MA(nos);
         // A é o índice zero, B o índice 1 e C o índice 2
         lis.setAresta(0, new ArrayList<>(Arrays.asList(new Vertice[] { nos[1], nos[2] })));
         lis.setAresta(1, new ArrayList<>(Arrays.asList(new Vertice[] { nos[0], nos[2] })));

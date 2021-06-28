@@ -2,13 +2,13 @@ package ListaAdjacencia;
 
 import java.util.ArrayList;
 
-public class Grafo_LA {
+public class Grafo_MA {
     // declaração "nos" é um vetor do tipo vertice
     Vertice nos[];
     // vetor de arrays
     ArrayList<Vertice> arestas[];
 
-    public Grafo_LA(Vertice nos_aux[]) {
+    public Grafo_MA(Vertice nos_aux[]) {
         // , passam como parâmetros os nós. Além disso, o vetor de arrays é criado com o
         // tamanho total de nós que foram recebidos.
         nos = nos_aux;

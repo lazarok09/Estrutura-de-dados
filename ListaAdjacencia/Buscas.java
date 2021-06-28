@@ -4,8 +4,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-import Grafos.Grafo_MA;
-
 public class Buscas {
     public void buscaDFS(Grafo_MA adj) {
         this.resetar(adj);
